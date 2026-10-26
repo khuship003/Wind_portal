@@ -1,0 +1,9 @@
+{
+  "source": "elexon",
+  "fetched_at": "2026-10-26T21:25:50Z",
+  "decision_start": "2026-01-01",
+  "decision_end": "2026-01-31",
+  "max_horizon_h": 48,
+  "actual_rows": 1584,
+  "forecast_rows": 11777
+}

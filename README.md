@@ -4,7 +4,7 @@ Web app that helps a GB utility's day-ahead desk (1) see the **latest wind forec
 
 **Live app:** https://wind-portal-5pb2.vercel.app  ·  **Video:** (add after recording) ·  
 
-> **AI disclosure:** This project was built with the assistance of an AI tool (Claude by Anthropic) for code generation, design and documentation. All code was reviewed and run by the author.
+**AI disclosure:** I used an AI assistant (Claude by Anthropic) to help generate code and documentation. I reviewed the code, ran the tests, ran the app locally and in Docker, and deployed it myself, and I can explain the design decisions in the accompanying video.
 
 ## Repo layout
 ```

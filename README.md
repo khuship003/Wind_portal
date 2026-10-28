@@ -2,7 +2,7 @@
 
 Web app that helps a GB utility's day-ahead desk (1) see the **latest wind forecast available at decision time** and (2) **quantify forecast accuracy** using Elexon BMRS data (`FUELHH` actuals, `WINDFOR` forecasts; national wind only).
 
-**Live app:** https://wind-portal-5pb2.vercel.app  ·  **Video:** (https://youtu.be/1uJLhMkUpX4) ·  
+**Live app:** https://wind-portal-5pb2.vercel.app  ·  **Video:** https://drive.google.com/file/d/1HdLhL_7KoXN9nkJIENpEcqjze33QN0SD/view?usp=sharing·  
 
 **AI disclosure:** I used an AI assistant (Claude by Anthropic) to help generate code and documentation. I reviewed the code, ran the tests, ran the app locally and in Docker, and deployed it myself, and I can explain the design decisions in the accompanying video.
 
